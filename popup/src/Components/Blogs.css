@@ -1,0 +1,15 @@
+.blogs{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.blogs__title{
+    margin: auto;
+    width: 50px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    color: darkolivegreen;
+}
